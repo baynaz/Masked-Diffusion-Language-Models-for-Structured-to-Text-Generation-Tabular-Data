@@ -1,7 +1,16 @@
 # MaskTable: Masked Diffusion LMs for Tabular-to-Text Generation
 
 > *Can non-autoregressive generation better capture the unordered nature of tabular data?*
-
+---
+![Python](https://img.shields.io/badge/python-3.10%2B-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-ee4c2c)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-yellow)
+![Model](https://img.shields.io/badge/Model-MDLM-8a2be2)
+![Baseline](https://img.shields.io/badge/Baseline-GPT--2-lightgrey)
+![Dataset](https://img.shields.io/badge/Dataset-ToTTo-4caf50)
+![Task](https://img.shields.io/badge/Task-Table--to--Text-ff69b4)
+![Finetuning](https://img.shields.io/badge/Finetuning-None-red)
+![Setting](https://img.shields.io/badge/Setting-Zero%2FFew--Shot-orange)
 ---
 
 ## Overview
