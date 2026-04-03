@@ -78,6 +78,15 @@ Each model generates **3 descriptions per table** (for diversity analysis).
 
 ---
 
+## Requirements
+```bash
+pip install torch
+
+```
+
+---
+
+
 ## Quickstart
 ```bash
 # Clone the repo
