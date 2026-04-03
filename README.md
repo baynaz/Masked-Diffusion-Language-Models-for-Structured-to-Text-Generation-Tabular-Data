@@ -53,3 +53,63 @@ We test this hypothesis empirically using the **ToTTo** benchmark dataset, compa
 ---
 
 ## Project Structure
+
+---
+
+## Evaluation
+
+Each model generates **3 descriptions per table** (for diversity analysis).
+
+| Metric | Purpose | Tool |
+|--------|---------|------|
+| BLEU / ROUGE | Surface-level overlap with reference | `evaluate` |
+| BERTScore | Semantic faithfulness | `evaluate` |
+| Self-BLEU | Generation diversity | `nltk` |
+| Manual faithfulness | Are numbers/facts correctly transcribed? | Human (50 examples) |
+
+---
+
+## Quickstart
+```bash
+# Clone the repo
+git clone https://github.com/your-username/masktable.git
+cd masktable
+
+# Install dependencies
+pip install -r requirements.txt
+```
+
+Or open directly in Colab:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
+
+---
+
+## Requirements
+> **Hardware**: Designed to run on Google Colab free tier (T4 GPU). All experiments fit within standard Colab memory constraints.
+
+---
+
+## Expected Results
+
+- Quantitative comparison of MDLM vs. GPT-2 across zero-shot, 3-shot, 5-shot, and 10-shot settings
+- Qualitative examples of generated descriptions from real Wikipedia tables
+- Analysis of factual faithfulness (number/entity transcription accuracy)
+- Conclusion on whether DLMs offer a structural advantage for conditional generation from unordered data
+
+---
+
+## References
+
+- Parikh et al. (2020) — [ToTTo: A Controlled Table-To-Text Generation Dataset](https://aclanthology.org/2020.emnlp-main.89/) — EMNLP 2020
+- Lou et al. (2023) — Discrete Diffusion Modeling by Estimating the Ratios of the Data Distribution (MDLM)
+- Ni et al. (2025) — [Diffusion Language Models are Super Data Learners](https://arxiv.org/abs/2511.03276)
+- Austin et al. (2021) — Structured Denoising Diffusion Models in Discrete State-Spaces (D3PM) — NeurIPS 2021
+- Radford et al. (2019) — Language Models are Unsupervised Multitask Learners (GPT-2)
+- Zhang et al. (2020) — BERTScore: Evaluating Text Generation with BERT — ICLR 2020
+
+---
+
+## License
+
+
