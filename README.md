@@ -85,11 +85,6 @@ Or open directly in Colab:
 
 ---
 
-## Requirements
-> **Hardware**: Designed to run on Google Colab free tier (T4 GPU). All experiments fit within standard Colab memory constraints.
-
----
-
 ## Expected Results
 
 - Quantitative comparison of MDLM vs. GPT-2 across zero-shot, 3-shot, 5-shot, and 10-shot settings
