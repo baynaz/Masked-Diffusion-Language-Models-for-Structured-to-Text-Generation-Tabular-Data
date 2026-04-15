@@ -62,7 +62,19 @@ We test this hypothesis empirically using the **ToTTo** benchmark dataset, compa
 ---
 
 ## Project Structure
+### Notebooks
 
+All project notebooks are stored in the `notebooks/` folder, with **one notebook per project step** for clarity and reproducibility.
+
+| Notebook | Description |
+|----------|------------|
+| `step1_dataset_preparation.ipynb` | Environment setup, ToTTo dataset exploration, table serialization, and subset construction. |
+| `step2_gpt2_generation.ipynb` | Conditional text generation using GPT-2 (zero-shot and few-shot prompting). |
+| `step3_mdlm_generation.ipynb` | Masked Diffusion Language Model (MDLM) setup and conditional generation. |
+| `step4_generation_pipeline.ipynb` | Generation of multiple outputs per table on the evaluation subset. |
+| `step5_evaluation_metrics.ipynb` | Automatic evaluation using BLEU, ROUGE, and BERTScore. |
+| `step6_manual_evaluation.ipynb` | Human evaluation of factual consistency. |
+| `step7_analysis.ipynb` | Comparative analysis and final conclusions. |
 ---
 
 ## Evaluation
