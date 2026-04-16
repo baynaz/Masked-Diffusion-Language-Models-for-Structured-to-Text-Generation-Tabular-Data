@@ -102,8 +102,8 @@ pip install torch
 ## Quickstart
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/masktable.git
-cd masktable
+git clone https://github.com/baynaz/Masked-Diffusion-Language-Models-for-Structured-to-Text-Generation-Tabular-Data.git
+cd Masked-Diffusion-Language-Models-for-Structured-to-Text-Generation-Tabular-Data
 
 # Install dependencies
 pip install -r requirements.txt
