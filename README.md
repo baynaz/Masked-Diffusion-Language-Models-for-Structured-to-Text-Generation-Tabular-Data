@@ -115,6 +115,45 @@ Or open directly in Colab:
 
 ---
 
+## Data Pipeline
+
+### The ToTTo Dataset
+- **Source**: `totto_train_data.jsonl` downloaded from the official Google repository
+- **Format**: JSONL (JSON Lines) — one example per line, allowing the file to be read
+  line by line without loading all ~120,000 examples into memory at once
+- **Each example contains**:
+  - `table`: the Wikipedia table as a list of rows, each cell having a `value`,
+    an `is_header` flag, and merge info (`column_span`, `row_span`)
+  - `highlighted_cells`: list of `[row_idx, col_idx]` coordinates pointing to the cells
+    **relevant** to the description — human annotations provided by Google
+  - `sentence_annotations`: several versions of the reference description;
+    we use `final_sentence` as the ground truth for evaluation
+  - `table_page_title`, `table_section_title`: contextual metadata
+
+### Why highlighted_cells?
+- A Wikipedia table can contain dozens of rows and columns
+- The reference description only concerns **a few specific cells**
+- Example: a table with 105 cells whose description only mentions one,
+  `"A Favorita"` → `highlighted_cells: [[13, 2]]`
+- By only serializing these cells, we give the model **the relevant information**
+  without drowning it in unnecessary noise
+
+### Table Serialization
+- Language models (GPT-2, MDLM) only understand **plain text**
+- Serialization converts the highlighted cells into a readable structured sentence: "Title : A Favorita | Director : Ricardo Waddington | Ibope Rating : 39.5"
+- Chosen format: `"header : value"` separated by `|` — simple, unambiguous,
+  and compatible with the limited context window of the models
+
+### Building the Subsets
+- The full file (~120,000 examples) is too large for free Colab T4
+- We extract two subsets by filtering out invalid examples
+  (missing `highlighted_cells` or empty `final_sentence`):
+  - **train_subset**: 5,000 examples — used to build few-shot prompts
+  - **eval_subset**: 500 examples — used for BLEU / ROUGE / BERTScore evaluation
+- Subsets are saved as local JSON files to avoid re-reading the JSONL
+  at every Colab session
+---
+
 ## Expected Results
 
 - Quantitative comparison of MDLM vs. GPT-2 across zero-shot, 3-shot, 5-shot, and 10-shot settings
