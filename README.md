@@ -12,6 +12,17 @@
 ![Finetuning](https://img.shields.io/badge/Finetuning-None-red)
 ![Setting](https://img.shields.io/badge/Setting-Zero%2FFew--Shot-orange)
 ---
+## Summary
+This project is structured as **7 sequential notebooks**, each covering one stage of the pipeline:
+
+1. **[Dataset Preparation](#1-dataset-preparation)**  
+2. **[GPT-2 Generation](#2-gpt-2-generation)**  
+3. **[MDLM Generation](#3-mdlm-generation)**  
+4. **[Generation Pipeline](#4-generation-pipeline)**  
+5. **[Automatic Evaluation](#5-automatic-evaluation)**  
+6. **[Manual Evaluation](#6-manual-evaluation)**  
+7. **[Analysis & Conclusion](#7-analysis--conclusion)**  
+---
 
 ## Overview
 
@@ -115,7 +126,7 @@ Or open directly in Colab:
 
 ---
 
-## Data Pipeline
+## 1. Data Preparation
 
 ### The ToTTo Dataset
 - **Source**: `totto_train_data.jsonl` downloaded from the official Google repository
@@ -130,7 +141,7 @@ Or open directly in Colab:
     we use `final_sentence` as the ground truth for evaluation
   - `table_page_title`, `table_section_title`: contextual metadata
 
-### Why highlighted_cells?
+#### Why highlighted_cells?
 - A Wikipedia table can contain dozens of rows and columns
 - The reference description only concerns **a few specific cells**
 - Example: a table with 105 cells whose description only mentions one,
@@ -138,13 +149,13 @@ Or open directly in Colab:
 - By only serializing these cells, we give the model **the relevant information**
   without drowning it in unnecessary noise
 
-### Table Serialization
+#### Table Serialization
 - Language models (GPT-2, MDLM) only understand **plain text**
 - Serialization converts the highlighted cells into a readable structured sentence: "Title : A Favorita | Director : Ricardo Waddington | Ibope Rating : 39.5"
 - Chosen format: `"header : value"` separated by `|` — simple, unambiguous,
   and compatible with the limited context window of the models
 
-### Building the Subsets
+#### Building the Subsets
 - The full file (~120,000 examples) is too large for free Colab T4
 - We extract two subsets by filtering out invalid examples
   (missing `highlighted_cells` or empty `final_sentence`):
@@ -153,8 +164,19 @@ Or open directly in Colab:
 - Subsets are saved as local JSON files to avoid re-reading the JSONL
   at every Colab session
 ---
+## 2. GPT-2 generation
+---
+## 3. MDLM Generation
+---
+## 4. Generation Pipeline
+---
+## 5. Automatic Evaluation 
+---
+## 6. Manual Evaluation
+---
+## 7. Analysis & Conclusion
 
-## Expected Results
+#### Expected Results
 
 - Quantitative comparison of MDLM vs. GPT-2 across zero-shot, 3-shot, 5-shot, and 10-shot settings
 - Qualitative examples of generated descriptions from real Wikipedia tables
