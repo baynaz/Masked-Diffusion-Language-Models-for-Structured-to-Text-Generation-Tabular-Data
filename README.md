@@ -126,7 +126,7 @@ Or open directly in Colab:
 
 ---
 
-## 1. Data Preparation
+## 1. Dataset Preparation
 
 ### The ToTTo Dataset
 - **Source**: `totto_train_data.jsonl` downloaded from the official Google repository
