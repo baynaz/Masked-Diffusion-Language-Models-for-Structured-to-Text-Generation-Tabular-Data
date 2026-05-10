@@ -1,0 +1,20 @@
+================================================================================
+RÉSUMÉ: FINE-TUNING DU MODÈLE MDLM
+================================================================================
+
+ COMPARAISON DES PERFORMANCES:
+
+Model                                    BLEU       ROUGE-L    BERTScore    Self-BLEU 
+-------------------------------------------------------------------------------------
+Pre-trained Zero-Shot                    0.0196     0.1955     0.5969       0.1936    
+Pre-trained Few-Shot (k=3)               0.0275     0.1684     0.5699       0.1603    
+Fine-Tuned Zero-Shot                     0.0064     0.1419     0.5452       0.2635    
+Fine-Tuned Few-Shot (k=3)                0.0036     0.1193     0.4992       0.2484    
+
+
+ GAINS DU FINE-TUNING:
+
+Zero-Shot BLEU Improvement: -67.35%
+Few-Shot BLEU Improvement: -86.91%
+Zero-Shot ROUGE-L Improvement: -27.42%
+Few-Shot ROUGE-L Improvement: -29.16%

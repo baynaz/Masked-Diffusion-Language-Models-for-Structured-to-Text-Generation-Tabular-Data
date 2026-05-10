@@ -1,0 +1,261 @@
+{
+  "pre_trained": {
+    "zero_shot": {
+      "metrics": {
+        "BLEU": 0.0196,
+        "ROUGE-1": 0.2552,
+        "ROUGE-2": 0.0962,
+        "ROUGE-L": 0.1955,
+        "BERTScore": 0.5969
+      },
+      "self_bleu": 0.1935676813302035,
+      "predictions": [
+        [
+          "Daniel  76, a former Chamberlain, served as the Secretary of the House of of Commons in 1874, until his left office on December 1, 1874. The Chamberlain was known for his role in managing the House of the Commons, the largest legislative body of the United States\n.",
+          "#  76, the predecessor of Daniel Henry Chamberlain, took his office on December 1, 1874, serving as the Secretary of the House of the Chamberlain House, and. Chamberlain, however, on, 15th, 1874, resigned from his position, resign to the position of the Secretary of the House of the Chamberlain House and and subsequently to the Secretary of the House of  the Chamberlain House..",
+          "Daniel 7676, the Earl of of Chamberlain, was appointed as Prime Lord on December 1774,  his term ended on December 16th, 1874. He was appointed as the Prime Lord on December 1774, and his term ended on December 16th, 1874."
+        ],
+        [
+          "In \" 2 Love Love\" (2204), the isabella plays the role of the young girl,, love, and, love,,,, love,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, love,, love, and, love,",
+          "In the \"2 in Love\" film, 201, 2016, played the role of Evelyn, a young girl who is,,, and, and,, and,,, and,, and,, and,, and,,, and, and,, and,, and,, and, and, and,, and, and, and and, and, and, and, and, and, and, and, and, and, and, and, and, and.",
+          "Inevil2 Kids in Love is a 20, 2012 film film directed by and,, and, and, starring by, and, and, and, and, and, and, and, and, and, and,,, and, and,, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and."
+        ],
+        [
+          "The table shows the 1919 British Census, which the total population was 119,00 men, boys, children, children, and women. The breakdown of the categories was: 1, 2, 3, 4, 5, and women, with 11,,000 men and 11,,000 boys, respectively,\n.",
+          "The table contains 19 19 19 1919 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19.",
+          "The table contains 119 numbers, which are: 1, 1, 2, 3, 4, 4, 5, 5, 6, 7, 8, 9, 10, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112."
+        ],
+        [
+          "Peter II the the Simple, Pêr II, 1450–1457, a the son of the the Justicier, Ar14icier,  Ar14icier, and the son of the Justicier, 14icier,  Ar14icier,  Ar14icier,  Ar14icier, died on 26 December 1458 at Nantes aged 65.",
+          "The II the the Simple, Peter IIr, lived 1450-1457 and was Arthur II II the Justic II II II the Justicier, Arzhur III, who 1457-1458 II II II II Justic II Justicier, Nantur, died on 26 December 1458, aged 65.",
+          "Peter II, the Simple, also known as Peter the Pêrier (Pêr II) 1450–1457, was a member of Cast Spain who ruled the city of England from 1450 to 1457. Arthur III, the Justicier, also known as Arthur the Arzhurier (Arzhur III) 1457–1458, passed away on 26 December 1458 at 65."
+        ],
+        [
+          "Ralph J. Parker is a renowned actor,,, and,,, comedian,,,, actor,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, comedian, comedian, .",
+          "Ralph J. Parker is a renowned actor, author, and author, known for his work, \"The Life of\" (1190s), which is the first film of the Life of the Rings. Parker is also known for his books, including, and the, \"The \"The of the Rings\" (1990s and \"The \"The of the Rings\" (1990s), which are the books of the 1940 series.",
+          "Ralph J. Parker is a renowned actor, author, and author, known for his debut book \" \"The Secret of Paradise\" (in 1947), which is a classic novel in the genre.. Parker is also for for his acting television, stage show, and television, including the series \" \"The Devil\"\" (in 1957), which is a popular American television series. Parker is also a professional actor, comedian, actress, actor,, producer, and screen writer."
+        ],
+        [
+          "The 2016 event, held in Da Nangang, Vietnam, began on  24th September  2016 and concluded 33th October  2016. The 2020 event, held in Sanya, China, started on  24th September  2020 and ended 33th October  2020. Both events took place in host countries Vietnam and host respectively...",
+          "The 2016 Film Festival, held in Da Nang, Vietnam, began on September 24th, 2016, and concluded on October 3rd, The 2020 Film Festival, held in S Sanya, China, took on on 24th, 2020, and ended on October 3rd. Both festivals showcase a diverse range of films, artists,, and cultural from across host host, and respective countries.",
+          "The 2016 event, hosted in Da Nang, Vietnam, took place  24 September  of 2016, and it concluded on 3 October  2016. The 2020 event, hosted in Sanya, China, took place on 24 September  2020, and it concluded on 3 October  2020. Both events were held in their respective host dates and their respective host countries.."
+        ],
+        [
+          "The 22nd episode episode of the TV series \"Person of Interest\" (20 12) featured the role by Alistair Wesley, a prominent actor who played a character the the characters of the series, the, the, and,,, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the, the.",
+          "In 2202 TV television series \"Person of of Interest,\" Alistair Wesley plays the role of Person of Interest, a charismatic and intelligent character who is revealed to be a successfullist. Thelist is is involved in various activities, including, business,, and political affairs, and he aunts to,, ,,,,,,,,,,,,,,,,,,,,,,, and, people,,,,, the, and, U..S..",
+          "The  2012 episode of \"Person of Interest\" features Alistairair Wesley, a character cast by Chris Deion,, who the series is known for its complex and and intriguing characters. The episode, featuring a gripping, dramatic storyline, and ensemble, focuses on the complexities of personal relationships and the challenges of navigating the U.S.. It was noted to highly critical, making it it as one of the most critical episodes in the series."
+        ],
+        [
+          "In 2205, the Coach Carter Carter, the head of the the School,, was the youngest the coach of the the School, and the youngest of the coaches of the the School, and the youngest of the coaches of the the School, and the youngest of the coaches of the the School, and the youngest of the coaches of the the School, and the youngest of the coaches of the the School, and the youngest of the coaches of the the School, and the youngest of the coaches of the the School.",
+          "In 2206, Coach Coach Carter Carter assumed the role of the the coach of of the professional basketball team, a the professional team of the United States, of the  of the Carolina, assumed the role of the coach of the the professional team of the United States, of the United States, of the United States, of the United States, of the United States, of the United States, of the United States, of the United States, of the United States, of the United States.",
+          "In 2200,, Coach Carter, the creator of the game,,,, played the role of Coach 2005,, in the context of the game,, ,, as a Domin figure, so, Coach 2005,,,, was the creator of the game.\n.."
+        ],
+        [
+          "John L. Estrada is a retired American soldier,, author, writer, poet, writer, and, editor,,, author,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, author,,, poet,, editor, and, author.",
+          "John L. Estrada ( a retired American actor), born on on January 22, 15, 1960, and passed away on 1, 10, 29th December, 1978. He was an for the role show \"The Man of\" and for the 10,11 season of \"Death of the Year.\" He died on 1, 1, 29th December, 1978.",
+          "John L. Estrada ( a retired attorney,),, ,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,0,,,,0,,,,0,,,,0,,,,0,,,,,,,,,0,,,,0,,,,0,,,0,,0,0."
+        ],
+        [
+          "The table provided a summary of the player's game-game player,, RPG,, average AP,, and player,,PGPG, respectively. The player has 32 game-game players,, with a4 of 4. RPG,, RPGs, an average AP of of 2.3, and a PPGPG of of 23.5, , PPGs.",
+          "The table provided the scores for various performance metrics (GP, RPG,, APG, and PPG) for a football player. The GP (Greatest Poss Rating, Possession, and Passing) was 32, indicating indicates their possession, and the RPG (44.8) indicates their passing rate. The APG (23.3) represents their average percentage of the game rate, while PPG (23.5) indicates their average pass completion rate..",
+          "The table provided a summary of the game, RPG, player,, average, average, and PPG ( for the game)) of a player.. The player a total GP (for a game) of 3.2, and the average RPG (RPG) score of 4.8. The average APG (APG) score was 2.3, and the PPG (PGPG) score is 23.5."
+        ]
+      ]
+    },
+    "few_shot": {
+      "metrics": {
+        "BLEU": 0.0275,
+        "ROUGE-1": 0.2085,
+        "ROUGE-2": 0.0755,
+        "ROUGE-L": 0.1684,
+        "BERTScore": 0.5699
+      },
+      "self_bleu": 0.16033676521580278,
+      "predictions": [
+        [
+          "Daniel 6lain, the head of of the British Army,, was the commander of 76, the rank of the Army, in 1874, and left office office December  1,1874. On 11 December 1, 1874, Daniel 6lain was appointed to the rank of the76, the rank of the Army, and the head of the Army. In 1875, Daniel 6lain became the head of the U.S...",
+          "The Chamberlain family, which included the 76th Daniel Henry wholain took office on December 1 11 11874, left left office on December 11 11 18874, or 11 11 18874, or 11 11 18874. 16 Henry Chamberlainlain left office on December 11 11 18874, or 11 11 18874.",
+          "Daniel Henry 76 was the  of of the of the of, who left office on December 1, 1874, as the  of of the of of the of of the of the of the of the of of the of of the of the of the of the the of the of the the of the of the the of the the of the the the the of the the of the the the the the the the the the the the the the the the the the the the the the the the the the."
+        ],
+        [
+          "Eynyn Lovejoy a role role in the in in Love film22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22,22",
+          "Evelyn Love is a role in the film \"Kids in Love,\" which was released in 2016, starring the characters of, and,, and, and,, and,, and,,,, and, and, and, and, and,, and,, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and.",
+          "Theynyn Lovejoy theynyn theynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynynyn"
+        ],
+        [
+          "The total score 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, scored.",
+          "The sequence of the numbers 0, 0,1,1,2,2,2, 3, 3, 4, 5, 5, 6, 6, 7, 7, 8, 9, 9, 9, 10, 10, 11, 11, 12, 12, 13, 13, 13, 14, 14, 15, 15, totals 19.",
+          "The total number of primes numbers the numbers 1, 2, 3, 4, 6, 8, 9, 100, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 23, 29, 31, 37, 41, 43, 47, 53, 53, 69."
+        ],
+        [
+          "Peter II the the Simple (Pêr II) was a  of the House of II, 1450–1457, and was the of the House of of III, 1457–1458, and Arthur III the the Justicier (Arzhur III) was the of the House of III, 1457–1458, and died 26 December 1458 Nantes of 65.",
+          "Peter II the the Simple (Pêr II) was a king of Portugal 1450–1457, while Arthur III the Justicier (Arzhur III) was a king of Spain 1457–1458. Peter II II II II passed away on December 24, 1458, at the age of 63, and Arthur Arzhic III passed away on December 2, 1458 in Nantes at the age of 65.",
+          "Arthur II II the Justicier (Arzhur III) 1457–1148 (also known as III 1457–1458) was born on the day 1 II1457, like Peterr II (Pêr II) 1450–1457, who was born on the day 1 II1450. He was at at 5 65 and passed away on 26 December 1468.."
+        ],
+        [
+          "Ralph J. Parker was a prominent figure in the United of America, the United States the, and the United Kingdom, and the the United of the the United, the the United, the United, the United United United United United United United United United United United United United United United United United United United United United United United United United United United United United United United United United United United United United United United United United United United United United United United United United United United United United United United United United United United United United United United United United United United United United United United United United United United United United United United.",
+          "Ralph J. Parker is the Vice Speaker of the House of the United States, serving as from the 11th Amendment 11th to  11th Amendment 11st to 11th Amendment 11st to 11th Amendment 11st to 11th Amendment 11st to 11th Amendment 11st to 11th Amendment 11st to 11th Amendment 11st to 11th Amendment 11st to 11th Amendment.",
+          "Ralph J. Parker was a prominent figure in the United of America, including the United of the United,, United Kingdom, the United States United States, United Kingdom, United United Kingdom United Kingdom, United United Kingdom United Kingdom, United United Kingdom United United Kingdom, United United Kingdom, United United Kingdom, United United Kingdom United United Kingdom, United United Kingdom, United United Kingdom, United United Kingdom, United United Kingdom, United United Kingdom, United United Kingdom, United United Kingdom, United United Kingdom, United United Kingdom, United United Kingdom, United United Kingdom, United United Kingdom United United United."
+        ],
+        [
+          "The 2016-2020 Vietnam2020 World Music Festival, held in Da Nang in Da, Vietnam, began on September 24th, 2016, and 3th in 2010, with the 2020 World Music Festival, held in Sanya, China, running on April 10th, 2008, to October 10th, 200...",
+          "The 2016 Vietnam Festival (Knam' Festivalung 101) was held in Da Nang, Vietnam, starting on September 24th, 2016 and on October 3rd. In 2020, the 2018 Vietnam Festival (Knam' Festivalung 101) was held in Sanya, China, starting on October 1th, 2020 and ending October 3rd.",
+          "In 2001, the V Film and Film Festival was held in Da Nang,, Vietnam, on September 24th to October 3rd,  the same year, in 2016, and in 2020, the same year was held in Sanya, China, on  20th to October 1st.  The 2016 V Film and Film Festival took place on  1 September 20th, 2016.\n."
+        ],
+        [
+          "The 122nd episode of the show of 2012, \" of of Interest,\" featured Alistairair Wesley played the role of the Sir,,,Person,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Person,,Person,Person, Person.",
+          "A 222nd episode is, and, and, and, and,,, and, and,, and,,, and,,, and, and,, and,, and,, and, and,,, and,, and,, and,,, and, and and, and, and, and, and and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and.",
+          "The 2021 episode of the Person of the Week series, Alistair Wesley, the role of the show person, is a critical episode. The Person of the Week series, which aired in one of the seasons 2012, 2013, and 2014, features a series of interviews and interviews with all the members of of the week. the person of interest that the series has appeared in in the seasons 2021, 2012, 2012."
+        ],
+        [
+          "In 220,,,000,0,,0,000,,,0,000,,00,000,,,0,000,,00,000,,00,000,,00,000,,00,000,,00,000,,00,000,000 episodes, Coach Carter played the role role in the TV show Coach.C..\n.",
+          "In  2005, the Carter Carter's role as Dominique was portrayed in a movie titled titled \"The Coach of the Show\" (The, Coach,,of,ofthe,of,of,of,of,,the,of,,the,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of Show).",
+          "Coach Carter 2005 is a role in the television series Comedy, Drama, Drama, TV, TV, TV, TV, TV, TV, TV, TV, TV, TV, TV, TV, TV, TV, TV, TV, TV, TV, TV, TV, TV, TV, TV, TV, TV, TV, TV, TV, TV, TV, TV, TV, TV, TV, TV, TV, TV, TV, TV, TV, TV, TV, TV, TV, TV, TV, TV, TV, TV."
+        ],
+        [
+          "John L. Estrada is a British actor who for for the role in the film \"The James, which\" was released in 1997. He born on 1, 1, 1940, and died on 1, 1, 1997. He was a for the actor of the film \"The James, which.. He was born on 1, 1, 1940, and died on 1, 1, 1997..\n.",
+          "John L. Estrada was a Mexican American actor, director,, and,,, and,,, and,,, and,,, and,,, and,,, and,,, and,,, and, ,, and,,, and,,, and, ,, and, ,, and, ,, and, ,, and, ,, and, ,, and, ,, and, ,, and, ,, and, ,, and, ,, and, ,, and, ,, and, ,, and, ,, and, ,",
+          "John L. Estrada was a retired American lawyer, actor,, director, and, later, attorney,,, actor,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, director, and lawyer."
+        ],
+        [
+          "The table provides the Gameplay, Name, Age, GP,, RPG,, AP,, and PG, for the game of the series RPG. The table is,, RPG,,, RPG,,, RPG,,, RPG,,, Name,,, Age,, RPG,,, RPG,,, RPG,,, RPG,,, RPG,,, RPG,,, RPG,,, RPG,,, RPG,,, RPG,,, RPG,,, RPG,,, RPG,,, RPG, ,, RPG,.",
+          "The statistics for the year of team, released in 2019, were:  32, 2017, 3,  32, 2019, 3,  32, 2019, 3,  32, 2019, 3,  32, 2019, 3,  32, 2019, 3,  32, 2019, 3.",
+          "The  ,,,PG,,,,,PG,,PG,,,,,PG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PG,,,,PG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PG,,,PG,"
+        ]
+      ]
+    }
+  },
+  "fine_tuned": {
+    "zero_shot": {
+      "metrics": {
+        "BLEU": 0.0064,
+        "ROUGE-1": 0.1744,
+        "ROUGE-2": 0.0573,
+        "ROUGE-L": 0.1419,
+        "BERTScore": 0.5452
+      },
+      "self_bleu": 0.26348087328453185,
+      "predictions": [
+        [
+          "Daniel  76, a British politician,, took to office on January 181, December 11 17874, and left office office on December  18 1874.. was was the  the the 16, 1874, the of of the United..",
+          "Daniel  76 was a British politician, who took office from December 1  17 71 to December 1 18 74, and was elected to the of  Parliament  1877 and to December 1 18 74. He was then left of office on December 18 74.\n.",
+          "Daniel 767 was, a former Britishlain served from January, 1816, to December 1,,1771874, due to the death of of the Chamberlain, the the the Chamberlain, the thelainlain, the the Britishlain, the thelainlain, the thelainlain, the thelainlain, the thelainlain, the thelainlain, the thelainlain, the thelainlain, the thelainlain, the thelainlain."
+        ],
+        [
+          "In the in \" in Love,22216,\" the character,,, played the role role of,, the,,,,,,, the,,,,,, the,, the,, the, the,,,,,, the,,,, the, the,, the, the,, the, the the, the, the the, the, the the, the, the, the the, the, the..",
+          "In the in \" Kids Love,22216,\" the film Evelyn, the the the role of the the role of the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the..",
+          "InKids inLove: Love is a222-year film film that takes the role in the role of Evelyn in the the movie of of the movie of the the movie the the, the the movie of the the movie, the the,, the the, and the the the the of the the movie of the the movie of the movie of the the movie of the movie of the the movie of the the movie of the movie of of the movie of the movie of the\n."
+        ],
+        [
+          "The table1119 is: a the following,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+          "The 119th position in the sequence sequence,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,,, ,,,,,,,,,,,,,,,,, ,,,,,,,, ,,,,,, ,,, ,,,,,,, ,, ,,,,,,, ,, ,,,,,,, ,,,, ,,",
+          "The  111 numbers  : : ,  1, 2,, 2, 3,, 5,, 5,, 5,, 1,, 1,, 1,, 1,, 1,  1,  1,  1, 1, 1,  1, 1, 1,  1, 1, 11 1"
+        ],
+        [
+          "Peter II the Simple, also known as the Peter (Pêr II) 1450–1457, was Arthur III the Justicier (Arzhur III) 1457–1458, who on 26 December 1458 in Nantes, France, passed away at 65.",
+          "Peter II the Simple, known as as the Simple (Pêr II) 1450–1457, was Arthur III the Justicier (Arzhur III) 1457–1458, who passed on  on of  26 December 1458 in Nantes at 65 years. Both figures were instrumental in the history of the and....",
+          "Peter II the Simple (Pêr II) (Pêr II) 1450–1457 was a Justicier of the nameier Pzhr II  1450 1457, who Arthur III the Justicier (Arzhur III) 1457–1458 passed away on December 26 December 1458 in Nantes, 65."
+        ],
+        [
+          "Ralph J Parker is a renowned speaker,,,, ,,,, ,,,,, ,,,,,,, ,,,,,,,, ,,,,,,, ,, ,,,,,,, ,,,,,,,, ,, ,,, ,, ,, ,,, ,, ,, ,, ,, ,, , ,, , , , , , , , ,",
+          "Ralph J Parker is a prominent, speaker,, speaker,,,, leader,, and,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, and,..",
+          "Ralph J Parker is a American actor,, comedian, comedian,, and, and, and,,,, and, and,, and, and,,,, and, and, and,,,, and, and, and,,, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and. and."
+        ],
+        [
+          "The 2016 Vietnam,, which was city in Da Nang,, hosted the Da Song Vietnam, a festival that held on September  24  to 30 October 2010. In 2000, the S city S S,, which was city in China, hosted the Sanya Festival, a festival that held on October 30  2020",
+          "The 2016 Vietnam,, Da Nang Vietnam,,, Vietnam, Vietnam,, Vietnam,, Vietnam,, Vietnam, Vietnam, Vietnam,, Vietnam, Vietnam, Vietnam, Vietnam, Vietnam,, Vietnam, Vietnam, Vietnam,,, Vietnam, Vietnam,,,, Vietnam, Vietnam, Vietnam, Vietnam, Vietnam, Vietnam, Vietnam, Vietnam, Vietnam, Vietnam, Vietnam, Vietnam, Vietnam, Vietnam, Vietnam, Vietnam, Vietnam, Vietnam,, Vietnam,,, Vietnam, Vietnam..",
+          "The 2016 event,, hosted, Da Nang,,,, was hosted by, Da, Vietnam,, and the,,, and,, began on on, 24 September,, and and,, ended on on,  3 October, , while the  2002 event,, hosted, Sanya,, and, was hosted by, China."
+        ],
+        [
+          "The 22nd episode episode of the of of of of series of of of222nd of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of",
+          "The 2022 episode \" of \" of Person of Interest\" a critically acclaimed role the portrayed by Alistair Wesley, features a gripping narrative around the the lives of of the the the characters in the series, highlighting the complexities of of the lives of the the and the the and of the lives of the the and the characters in the series, and the the and of of of the the lives of the lives and of the lives of the the and the characters in the series.",
+          "In 22 episodes0, the the \" of Person of Interest\" series (airairairairairairairairairairairairairairairairairairairairairairairairairairairairairairairairairairairairairairairairairairairairairairairairairairairairairairairairairairairairairairairairairairairairairairairairairairairairairairairairairairairairairairairairairairairairairairair"
+        ],
+        [
+          "In 2200, the Carter Carter Carter Carter Carter Carter the role role role the the role role the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the",
+          "The 22nd2 film film, \" Carter Carter: Carter,\" is by role by the character Domin,, a the the character, the in the project, the 22nd5 film film that is in the life of the character, Coach Carter,, portrayed as the character, the character, the character, the the character, the character, the character, the character, the\n.",
+          "In  2005, the Coach Carter Carter Carter played a role role role role role role role the in role the role role role role role role role role role role role role role role role role role role role role role role role role role role role role role role role role role role role role role role role role role role role role role role role role role role role role role role role role role role role role role role role role role role role role role role role role role role role role role role role role role role role role role role role role role role role role"
+        ],
+        [
+          "John L. Estrada is a renowned,,,,, architect,,,, and,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, and,..",
+          "John L. Estrada is a retired actor from, Spain,, Spain,, and, Spain, Spain, Spain, and,,, and, Spain,,, and,,, and, Spain, Spain, Spain, Spain, Spain, Spain, Spain, Spain, Spain, Spain, Spain, Spain, Spain, Spain, Spain, Spain, Spain, Spain, Spain, Spain, Spain, Spain, Spain, Spain, Spain, Spain, Spain, Spain, Spain, Spain, Spain, Spain, Spain. Spain. Spain.",
+          "John L. Estrada is a renowned American, from, Colombia,, United, Colombia, and,,, life,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, Colombia,,, and,."
+        ],
+        [
+          "The table provided shows the performance of a player player,,,, player player, player,,, player, player,,,, player,,,,,,, player,,,,,, player, player,,,,,, player,,,,,,, player, player, player,, player,, player,,, player, player,, player, player, player, player,",
+          "This table provides a breakdown of game types, GP,,,,, RPG, RPG, AP,AP,AP,,,PG, and PPG,PG,PG,,, with the,  of2,,GP,,,,GP,,,,, RPG, RPG, RPG, AP,AP,AP,,PG, and PPG,PG,PG, with, the,  of2,GP...",
+          "The table represents a dataset of:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"
+        ]
+      ]
+    },
+    "few_shot": {
+      "metrics": {
+        "BLEU": 0.0036,
+        "ROUGE-1": 0.159,
+        "ROUGE-2": 0.0423,
+        "ROUGE-L": 0.1193,
+        "BERTScore": 0.4992
+      },
+      "self_bleu": 0.24841769851050927,
+      "predictions": [
+        [
+          "Daniel  76th the the  of the House of           1     1     1     1     1     1     1     1     1     1     1     1     1     1   774.",
+          "The 76, the head of the House Minister Henry Chamberlain, was Daniel Henry Chamberlain on December 1st, 1874, until his left office in the House of Commons on December 1, 1874, and in the last end of the House of Commons, the  was the  Minister the  of the House of the  of the 1 the,lain, that the thelain was the Minister of the  of  of the House at the end of the year the 18th4.",
+          "The 76th member of the British Parliament Chamberlainlain left took office on December 1st, 1874, becoming the  of the thelainlain of, the role in the role of the  secretary of the  of the  of the lainlain in the role of the thelainlain of the thelainlain of the thelainlain of thelainlain of the thelainlain of thelainlain of the thelainlain of thelainlain of thelain.."
+        ],
+        [
+          "In 2 Love,22 Kids, Evelyn played starred starred starred in in in...",
+          "In 2 Love, the role of series, Evelyn played a as role in Love..",
+          "In 20 Love, the in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in."
+        ],
+        [
+          "The 119th the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the..",
+          "The 1st of the Pepsi Music Awards Awards in 119 out of the 10thth year, with the the  29thth  of  29 March 2012, and was the  winnerst in the 1 of 119  of  the 10thth year, with the  29thth  of 29 March.2\n.",
+          "The  of Fame Awards was held for 119 times in 1997,, with the 119 winner of the 1990 Academy Award Awards being the winner for for the Best Actress Best Best Actress Award, and the 119th winner of the 1997 Academy Award Awards being the winner for the Best Actor Best Best Best Actor Award. The the 1997 winner was was was the for the Best of Best Best the Award."
+        ],
+        [
+          "Peter II the Simple (Pêr II) 1450–1457 was Arthur III the the Justier (Arzhur III) from 10–111, who passed away on December 1 December 1458. N   65.",
+          "Peter II II the Simple (rr II) 2r II, 1450–1457 was the son of of Manuel II, while Peter II II II, Arzur III, 1457–1451, was the son of of Arthur III. Peter II II II died away on December  6 1458.\n.",
+          "Peter II the Simple (Pêr II II) (450–1457) and Arthur III the Justier II (Arzhur III III) (457–1458) were born on 15 1 1  14 50 14 54 14 58 14 1 1  14 60."
+        ],
+        [
+          "Ralph J Parker is a the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the..",
+          "Ralph J Parker is the a speaker in the show the,, ,,,, ,, ,,,, ,,,,, ,,,,,, ,,,, ,,,,, ,,,,,,,,, ,,,,,,, ,,, ,,, ,, ,,,,, ,, ,,, ,,, ,, , ,, ,, , , , , , , , , , ,.",
+          "Ralph J. Parker is a member of the the show, where the actor, actress, and, and later of the actor, the actor, played in the role, and the the actor, actress, and,, played of the actor, the the the actor, the in and the, played of the actor, the actor, the actor, the actor, the actor, the actor, the actor, the actor, the actor, the actor, the actor. the"
+        ],
+        [
+          "The 2016 Vietnam Olympics in Da Nang featured on:  1    0    1    2   24   3    4   6   7    8   9   10  11   12  13  14  15  16  17  18",
+          "In 206th January, the Vietnam Waranoianoi Da Da       |  1   |  24  |  3   |  20  21  |  Sanya  | |  20  |21  |  2  | |22  |  3  | |    | | 0  | | |  Vietnam..",
+          "The 2016 Vietnam film, in Da Nang, was hosted in the city of  Da N Vietnam, running from  24 September to October  3 October. In  2020.  2020, the Sanya film film the winner of the Year of the Year, was hosted in the city of Sanya, running from  24 September to   3  300. \n."
+        ],
+        [
+          "In 2012, thelist of Wesley Wesley starred a in of of of of of of of of of of of of of, and the of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of..",
+          "In 2012, the list list episode episode of the role starred Alistair Wesley, Wesley played the role of the Person of Interest, and the episode was critical the episode was the first critical episode of the episode of the Person of Interest and the episode of the Person of Interest. The episode was a critical the first critical episode of the episode of the Person of Interest and the episode of the Person of Interest.\n\n....",
+          "In 2012, thelistair Wesley was the role Alistair Wesley Wesley in the show \" of of of of, the of of the of, the of of of the show of the show of show of the show of the show of the show of the of the show of the show of the show of the show of the show of the show of the show of the show of the show of the show of the show of the show of the show of the show of the show of the show of the show"
+        ],
+        [
+          "Domin Carter Carter played the role of Coach in in the film of in22005.",
+          "Domin Carter Carter played the role of Dominique in the series in 2005).0",
+          "Domin Carter played the role of Dominique in the film Coach in in 2005"
+        ],
+        [
+          "John L. Estrada was a member of the the the,, the the, and the the,, the the the the the the the,, the the, and the the,, the the, and the the,, the the, and the the,, the the,, the the, and the the, and the the, and the the, and the the, and the the, and the the, and the the, and the the, and the the, and the the, and the the, and the the.",
+          "John L. Estrada was a former Philippines player in the Philippines, the Philippines,, the the the Philippines,, the, and the Philippines,, the, the the Philippines,, the Philippines the the Philippines, the Philippines, the Philippines,, the Philippines, the Philippines, the Philippines, the Philippines, the the Philippines, the Philippines, the Philippines, the Philippines, the Philippines, the Philippines, the Philippines, the Philippines, the Philippines, the Philippines, the Philippines, the Philippines, the Philippines, the Philippines.",
+          "John L. Estrada was an American politician in the United States, Canada, Canada, and, later, and, later, and,, and, and,,,, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and,."
+        ],
+        [
+          "The  32  ,  the the GP was  4.8,  the RPG was  4.8,  the AP was   2.3, and the PPG was  23.5. the  was",
+          "The  32-GP was the RPG with the  42nd RPG,  the RPG with the 4..8, the 2.3-PGPGPGPGPGPGPGPGPGPGPGPGPGPGPGPGPGPGPG and the 23.5PGPGPGPGPGPGPGPGPGPGPGPGPGPGPGPGPGPGPGPGPGPGPGPGPGPGPGPGPGPGPGPGPGPGPGPGPGPGPGPGPG the of  film.",
+          "The  22nd game of of       32GP,      ,   ,   ,     ,                                                   PG of  23..5."
+        ]
+      ]
+    }
+  },
+  "finetune_losses": [
+    1.9759447849713838,
+    0.08761479906164683,
+    0.015763624857824583,
+    0.007283967633086901,
+    0.005212357249827339
+  ]
+}
