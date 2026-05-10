@@ -12,17 +12,6 @@
 ![Finetuning](https://img.shields.io/badge/Finetuning-None-red)
 ![Setting](https://img.shields.io/badge/Setting-Zero%2FFew--Shot-orange)
 ---
-## Summary
-This project is structured as **7 sequential notebooks**, each covering one stage of the pipeline:
-
-1. **[Dataset Preparation](#1-dataset-preparation)**  
-2. **[GPT-2 Generation](#2-gpt-2-generation)**  
-3. **[MDLM Generation](#3-mdlm-generation)**  
-4. **[Generation Pipeline](#4-generation-pipeline)**  
-5. **[Automatic Evaluation](#5-automatic-evaluation)**  
-6. **[Manual Evaluation](#6-manual-evaluation)**  
-7. **[Analysis & Conclusion](#7-analysis--conclusion)**  
----
 
 ## Overview
 
@@ -75,17 +64,16 @@ We test this hypothesis empirically using the **ToTTo** benchmark dataset, compa
 ## Project Structure
 ### Notebooks
 
-All project notebooks are stored in the `notebooks/` folder, with **one notebook per project step** for clarity and reproducibility.
+All project notebooks are stored in the `notebooks/` folder.
 
-| Notebook | Description |
-|----------|------------|
-| `step1_dataset_preparation.ipynb` | Environment setup, ToTTo dataset exploration, table serialization, and subset construction. |
-| `step2_gpt2_generation.ipynb` | Conditional text generation using GPT-2 (zero-shot and few-shot prompting). |
-| `step3_mdlm_generation.ipynb` | Masked Diffusion Language Model (MDLM) setup and conditional generation. |
-| `step4_generation_pipeline.ipynb` | Generation of multiple outputs per table on the evaluation subset. |
-| `step5_evaluation_metrics.ipynb` | Automatic evaluation using BLEU, ROUGE, and BERTScore. |
-| `step6_manual_evaluation.ipynb` | Human evaluation of factual consistency. |
-| `step7_analysis.ipynb` | Comparative analysis and final conclusions. |
+STEPS:
+- Environment setup, ToTTo dataset exploration, table serialization, and subset construction. 
+- Conditional text generation using GPT-2 (zero-shot and few-shot prompting). 
+- Masked Diffusion Language Model (MDLM) setup and conditional generation. 
+- Generation of multiple outputs per table on the evaluation subset. 
+- Automatic evaluation using BLEU, ROUGE, and BERTScore. 
+- Human evaluation of factual consistency. 
+- Comparative analysis and final conclusions. 
 ---
 
 ## Evaluation
@@ -100,24 +88,12 @@ Each model generates **3 descriptions per table** (for diversity analysis).
 | Manual faithfulness | Are numbers/facts correctly transcribed? | Human (50 examples) |
 
 ---
-
-## Requirements
-```bash
-pip install torch
-
-```
-
----
-
-
 ## Quickstart
 ```bash
 # Clone the repo
 git clone https://github.com/baynaz/Masked-Diffusion-Language-Models-for-Structured-to-Text-Generation-Tabular-Data.git
 cd Masked-Diffusion-Language-Models-for-Structured-to-Text-Generation-Tabular-Data
 
-# Install dependencies
-pip install -r requirements.txt
 ```
 
 Or open directly in Colab:
@@ -126,7 +102,7 @@ Or open directly in Colab:
 
 ---
 
-## 1. Dataset Preparation
+##  Dataset Preparation
 
 ### The ToTTo Dataset
 - **Source**: `totto_train_data.jsonl` downloaded from the official Google repository
@@ -164,17 +140,6 @@ Or open directly in Colab:
 - Subsets are saved as local JSON files to avoid re-reading the JSONL
   at every Colab session
 ---
-## 2. GPT-2 generation
----
-## 3. MDLM Generation
----
-## 4. Generation Pipeline
----
-## 5. Automatic Evaluation 
----
-## 6. Manual Evaluation
----
-## 7. Analysis & Conclusion
 
 #### Expected Results
 
